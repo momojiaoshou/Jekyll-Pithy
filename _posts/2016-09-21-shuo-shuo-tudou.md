@@ -4,7 +4,7 @@ title: 说说土豆
 tags:
 - 闲扯
 - 吃货
-categories: 吃货
+categories: 闲扯
 description: 说的是吃的，不是看视频的网站。
 ---
 ## 前言
